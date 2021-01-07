@@ -19,6 +19,8 @@ module.exports = withBundleAnalyzer({
       'cdn.commento.io',
       'gatsby.ghost.io',
       'ghost.org',
+      'www.adminreports.blackswan.watch',
+      'covid.amcharts.com',
       'repository-images.githubusercontent.com',
       'www.gravatar.com',
       'github.githubassets.com',
