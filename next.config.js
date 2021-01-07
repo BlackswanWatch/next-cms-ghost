@@ -15,6 +15,8 @@ module.exports = withBundleAnalyzer({
       'cms.jamify.org',
       'demo.jamify.org',
       'www.gatsbyjs.org',
+      'res.cloudinary.com',
+      'cloudinary.com',
       'www.jamify.org',
       'cdn.commento.io',
       'gatsby.ghost.io',
