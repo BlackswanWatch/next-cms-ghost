@@ -9,6 +9,8 @@ module.exports = withBundleAnalyzer({
     domains: [
       'localhost',
       'images.unsplash.com',
+      'admin.blackswan.watch',
+      'blackswan.watch',
       'static.gotsby.org',
       'static.ghost.org',
       'hooshmand.net',
