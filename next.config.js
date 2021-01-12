@@ -8,6 +8,7 @@ module.exports = withBundleAnalyzer({
     deviceSizes: [320, 500, 680, 1040, 2080, 2048, 3120],
     domains: [
       'localhost',
+      '18.132.171.3:80',
       'images.unsplash.com',
       'admin.blackswan.watch',
       'blackswan.watch',
